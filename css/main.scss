@@ -469,6 +469,9 @@ img{
     #wrap{
         #header{
             .inner{
+                .logo{
+                    max-width: 60px;
+                }
                 .gnb_m {
                     display: block;
                     background: none;

@@ -22,7 +22,7 @@ $(".gnb_m").click(function(){
 
 
 $(".nav-item").click(function(){
-    $('.navbar').hide();
+    $('.navbar').removeClass("on");
     $('#header').removeClass("bg_show")
 })
 

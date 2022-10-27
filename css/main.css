@@ -348,6 +348,9 @@ img {
   }
 }
 @media (max-width: 1023px) {
+  #wrap #header .inner .logo {
+    max-width: 60px;
+  }
   #wrap #header .inner .gnb_m {
     display: block;
     background: none;
